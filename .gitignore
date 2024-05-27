@@ -6,12 +6,9 @@ out/
 ### Eclipse ###
 .apt_generated
 .classpath
-.factorypath
 .project
 .settings
-.springBeans
 .sts4-cache
-bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
@@ -148,9 +145,6 @@ cmake-build-*/
 
 # File-based project format
 *.iws
-
-# IntelliJ
-out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
